@@ -1,0 +1,7 @@
+{
+  "name": "nf-cache-context",
+  "version": "0.1.0",
+  "description": "Leiste über dem Eingabefeld: Prompt-Cache-Restzeit, Cache-Hit-Rate, Kontext-Wetter, Füllstand und Compact-Button.",
+  "author": { "name": "Nico Felix" },
+  "types": "./types/index.d.ts"
+}

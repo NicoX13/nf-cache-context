@@ -1,0 +1,7 @@
+{
+  "name": "nico-mods",
+  "owner": { "name": "Nico Felix" },
+  "plugins": [
+    { "name": "nf-cache-context", "source": "./nf-cache-context", "description": "Leiste über dem Eingabefeld: Cache-Restzeit, Hit-Rate, Kontext-Wetter, Compact-Button." }
+  ]
+}
