@@ -47,6 +47,7 @@ Der Mod arbeitet nur lokal. Er liest Zahlen, die Claude Code ohnehin bereitstell
 
 - Die Oberfläche ist auf Deutsch.
 - Inoffizielles Community-Projekt, nicht von Anthropic.
+- Lizenz: MIT, siehe [LICENSE](LICENSE).
 
 ---
 
